@@ -17,7 +17,7 @@
 # About Me
 I'm a **Full Stack Developer** and **AI Engineer** passionate about building scalable web applications, intelligent systems, and solving real-world problems through technology.
 Currently pursuing **B.Tech in Computer Science Engineering** at **Sanjivani University**, I enjoy working across the complete software development lifecycle—from designing responsive frontends to developing robust backend services and integrating AI/ML solutions into production-ready applications.
-My interests include **Artificial Intelligence, Machine Learning, Backend Development, Computer Vision, API Development, and Generative AI**. I continuously explore new technologies and enjoy participating in hackathons, open-source contributions, and innovative software projects.
+My interests include **Artificial Intelligence, Machine Learning, Backend Development, API Development, and Generative AI**. I continuously explore new technologies and enjoy participating in hackathons, open-source contributions, and innovative software projects.
 ### Currently Exploring
 
 - Artificial Intelligence
