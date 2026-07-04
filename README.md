@@ -7,21 +7,17 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3500&pause=1000&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;AI+Engineer+in+Progress;Machine+Learning+Enthusiast;Building+Real+World+Applications;Open+Source+Learner;Always+Learning+New+Technologies"/>
 
 <br>
-
 <img src="https://komarev.com/ghpvc/?username=Sarthak1ad&label=Profile+Views&color=0e75b6&style=flat" />
 <img src="https://img.shields.io/github/followers/Sarthak1ad?style=social"/>
 <img src="https://img.shields.io/github/stars/Sarthak1ad?style=social"/>
-
 </div>
 
 ---
 
 # About Me
-
 I'm a **Full Stack Developer** and **AI Engineer** passionate about building scalable web applications, intelligent systems, and solving real-world problems through technology.
 Currently pursuing **B.Tech in Computer Science Engineering** at **Sanjivani University**, I enjoy working across the complete software development lifecycle—from designing responsive frontends to developing robust backend services and integrating AI/ML solutions into production-ready applications.
 My interests include **Artificial Intelligence, Machine Learning, Backend Development, Computer Vision, API Development, and Generative AI**. I continuously explore new technologies and enjoy participating in hackathons, open-source contributions, and innovative software projects.
-
 ### Currently Exploring
 
 - Artificial Intelligence
@@ -35,9 +31,7 @@ My interests include **Artificial Intelligence, Machine Learning, Backend Develo
 ---
 
 # Programming Languages
-
 <p align="left">
-
 <img src="https://skillicons.dev/icons?i=python"/>
 <img src="https://skillicons.dev/icons?i=cpp"/>
 <img src="https://skillicons.dev/icons?i=c"/>
@@ -45,7 +39,6 @@ My interests include **Artificial Intelligence, Machine Learning, Backend Develo
 <img src="https://skillicons.dev/icons?i=javascript"/>
 <img src="https://skillicons.dev/icons?i=html"/>
 <img src="https://skillicons.dev/icons?i=css"/>
-
 </p>
 
 ---
@@ -53,13 +46,11 @@ My interests include **Artificial Intelligence, Machine Learning, Backend Develo
 # Frameworks & Libraries
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=react"/>
 <img src="https://skillicons.dev/icons?i=fastapi"/>
 <img src="https://skillicons.dev/icons?i=flask"/>
 <img src="https://skillicons.dev/icons?i=tensorflow"/>
 <img src="https://skillicons.dev/icons?i=pytorch"/>
-
 </p>
 
 ---
