@@ -128,15 +128,6 @@ My interests include **Artificial Intelligence, Machine Learning, Backend Develo
 
 ---
 
-# GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Sarthak1ad&theme=darkhub&column=7&margin-w=10&margin-h=10"/>
-
-</p>
-
----
 
 # Tech Usage
 
