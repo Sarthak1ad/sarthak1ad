@@ -86,18 +86,6 @@ My interests include **Artificial Intelligence, Machine Learning, Backend Develo
 
 ---
 
-# GitHub Analytics
-
-<p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sarthak1ad&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarthak1ad&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
----
-
 # GitHub Streak
 
 <p align="center">
