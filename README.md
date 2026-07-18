@@ -129,16 +129,6 @@ My interests include **Artificial Intelligence, Machine Learning, Backend Develo
 ---
 
 
-# Tech Usage
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Sarthak1ad&theme=github_dark"/>
-
-</p>
-
----
-
 # Hackathon Journey
 
 | Year | Event | Status |
