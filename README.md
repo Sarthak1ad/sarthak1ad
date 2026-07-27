@@ -106,15 +106,6 @@ My interests include **Artificial Intelligence, Machine Learning, Backend Develo
 
 ---
 
-# GitHub Summary
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sarthak1ad&theme=github_dark"/>
-
-</p>
-
----
 
 
 # Hackathon Journey
