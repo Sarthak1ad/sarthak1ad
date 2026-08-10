@@ -106,8 +106,6 @@ My interests include **Artificial Intelligence, Machine Learning, Backend Develo
 
 ---
 
-
-
 # Hackathon Journey
 
 | Year | Event | Status |
