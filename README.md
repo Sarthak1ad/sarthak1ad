@@ -2,7 +2,7 @@
 
 # Sarthak Darandale
 
-### Full Stack Developer • AI Engineer • Problem Solver
+## Full Stack Developer • AI Engineer • Problem Solver
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3500&pause=1000&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;AI+Engineer+in+Progress;Machine+Learning+Enthusiast;Building+Real+World+Applications;Open+Source+Learner;Always+Learning+New+Technologies"/>
 
