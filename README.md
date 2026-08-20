@@ -159,7 +159,6 @@ Computer Vision         ██████████████░░░░�
 
 Generative AI           ██████████████░░░░░ 75%
 ```
-
 ---
 
 # Connect
