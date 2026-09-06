@@ -183,7 +183,7 @@ Generative AI           ██████████████░░░░�
 
 <div align="center">
 
-### "Code • Learn • Build • Repeat"
+### Code • Learn • Build • Repeat
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=gradient&section=footer"/>
 
