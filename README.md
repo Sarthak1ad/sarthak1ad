@@ -10,6 +10,7 @@
 <img src="https://img.shields.io/github/followers/Sarthak1ad?style=social"/>
 <img src="https://img.shields.io/github/stars/Sarthak1ad?style=social"/>
 </div>
+
 ---
 
 # About Me
