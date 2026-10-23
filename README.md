@@ -1,5 +1,4 @@
 <div align="center">
-
 # Sarthak Darandale
 
 ## Full Stack Developer • AI Engineer • Problem Solver
@@ -28,7 +27,6 @@ My interests include **Artificial Intelligence, Machine Learning, Backend Develo
 - Backend Architecture
 
 ---
-
 # Programming Languages
 <p align="left">
 <img src="https://skillicons.dev/icons?i=python"/>
@@ -39,7 +37,6 @@ My interests include **Artificial Intelligence, Machine Learning, Backend Develo
 <img src="https://skillicons.dev/icons?i=html"/>
 <img src="https://skillicons.dev/icons?i=css"/>
 </p>
-
 ---
 
 # Frameworks & Libraries
